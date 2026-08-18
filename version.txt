@@ -1,2 +1,2 @@
-v1.1.0|https://github.com/phucvo101a-beep/PhucVN/releases/download/PhucVNSTORE.dl
+v1.1.0|https://github.com/phucvo101a-beep/PhucVN/releases/download/PhucVNSTORE.dll
 
