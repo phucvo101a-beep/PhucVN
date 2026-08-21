@@ -1,2 +1,2 @@
-v1.4.6|https://github.com/phucvo101a-beep/PhucVN/releases/download/PhucVNSTORE.dll
+v1.5.0|https://github.com/phucvo101a-beep/PhucVN/releases/download/PhucVNSTORE.dll
 
